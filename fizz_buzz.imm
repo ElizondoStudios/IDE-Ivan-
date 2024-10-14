@@ -1,0 +1,13 @@
+para x en (0,100){
+si x%3 igual 0{
+imprimir "fizz"
+}
+sino {
+si x%5 igual 0{
+imprimir "buzz"
+}
+sino {
+imprimir x
+}
+}
+

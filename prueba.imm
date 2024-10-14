@@ -1,0 +1,11 @@
+imprimir "Dame el valor de x"
+a = ingresar
+imprimir "Dame el valor de b"
+b = ingresar
+
+fun suma (a,b){
+    regresa a+b
+}
+
+imprimir "La suma es: "+suma(a,b)
+

@@ -1,0 +1,6 @@
+para x en (0,10){
+si x%2 igual 0{
+imprimir x+1
+}
+}
+

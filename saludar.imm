@@ -1,0 +1,8 @@
+imprimir "Cual es tu nombre?"
+nombre= ingresar
+
+fun saludar(nombre){
+imprimir "Hola "+nombre+"!"
+}
+
+saludar(nombre)
